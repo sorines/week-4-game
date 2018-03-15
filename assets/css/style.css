@@ -1,4 +1,10 @@
+html{
+    border:solid 2px;
+    background-image: url();
+}
+
 .col-6{
 text-overflow: clip;
-
+border: solid #ffe919 1px;
 }
+
