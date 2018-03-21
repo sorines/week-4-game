@@ -1,10 +1,37 @@
-html{
-    border:solid 2px;
-    background-image: url();
+body{
+   
+    background-image: url("../images/Hyperspace.2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+#h1{
+    color:#ffffff;
+  
+}
+
+
+
 
 .col-6{
 text-overflow: clip;
-border: solid #ffe919 1px;
+border: solid #ffe919 5px;
+color:#182e59;
+background-color:#fbfffe;
 }
 
+
+.col-3{
+    text-overflow: clip;
+    border: solid #ffe919 5px;
+    color:#182e59;
+    background-color: #fbfffe;
+    }
+
+
+
+    img{
+       
+        height:200px;
+       
+       }
